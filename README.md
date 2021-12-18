@@ -9,6 +9,10 @@
 ### Android 프로그래밍 ###
 - [Material Design](https://material.io/components?platform=android)
 
+### 프로그래밍 팀 빌딩 사이트 ###
+- [대학생 IT 연합 동아리 정보 모음 링크](https://velog.io/@prayme/대학생-IT-연합-동아리-정보-모음-feat.-RUFree-주니어)
+- [네이버 카페 사이프로](https://cafe.naver.com/sidepro)
+
 ### 알고리즘 공부 사이트 ###
 - [백준](https://www.acmicpc.net/)  
 - [프로그래머스](https://programmers.co.kr/)  
@@ -43,6 +47,8 @@
 - [영어는 반복이다 유튜브 채널](https://www.youtube.com/channel/UCB4zJjFbldBB1A3K7gCJO1A) [Friends 쉐도잉]
 
 ## Etc
+
+- [지방대 개발 비전공자가 배달의민족 리드 개발자가 되기까지](https://www.youtube.com/watch?v=V9AGvwPmnZU&t=368s&ab_channel=eo) [이동욱님 인터뷰, 하루키의 법칙]
 
 ### 채용 정보 사이트 ###
 - [주니어 개발자를 위한 취업 정보(이동욱님 깃허브)](https://github.com/jojoldu/junior-recruit-scheduler)
