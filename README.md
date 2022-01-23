@@ -5,6 +5,7 @@
 ### 프로그래밍 ### 
 - [위키독스](https://wikidocs.net/)[프로그래밍 도서 공유 사이트]
 - [Soen](http://soen.kr/) [C++ 학습]
+- [생활코딩](https://www.opentutorials.org/) [프로그래밍 무료 교육]
 - [어소트락 게임 아카데미 유튜브 채널](https://www.youtube.com/c/AssortRockGameAcademy) [C++, WinAPI 무료 강의]
 
 ### Android 프로그래밍 ###
@@ -15,6 +16,7 @@
 
 ### 프로그래밍 팀 빌딩 사이트 ###
 - [대학생 IT 연합 동아리 정보 모음 링크](https://velog.io/@prayme/대학생-IT-연합-동아리-정보-모음-feat.-RUFree-주니어)
+- [펀디](https://fun-d.site/)
 - [네이버 카페 사이프로](https://cafe.naver.com/sidepro)
 
 ### 알고리즘 공부 사이트 ###
