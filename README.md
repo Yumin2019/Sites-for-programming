@@ -5,8 +5,12 @@
 ### 프로그래밍 ### 
 - [위키독스](https://wikidocs.net/)[프로그래밍 도서 공유 사이트]
 - [Soen](http://soen.kr/) [C++ 학습]
+- [코딩도장](https://dojang.io/) [Python, C 학습]
 - [생활코딩](https://www.opentutorials.org/) [프로그래밍 무료 교육]
+- [TCPS school](http://tcpschool.com/) [프로그래밍 학습]
 - [어소트락 게임 아카데미 유튜브 채널](https://www.youtube.com/c/AssortRockGameAcademy) [C++, WinAPI 무료 강의]
+- [인프런](https://www.inflearn.com/) [강의 플랫폼 사이트]
+- [프로그래머스 Lecture](https://programmers.co.kr/learn) [강의 플랫폼 사이트]
 
 ### Android 프로그래밍 ###
 - [Google codelabs](https://codelabs.developers.google.com/)
@@ -40,6 +44,8 @@
 ## Etc
 - [훌륭한 개발 팀을 만드는 방법(이호성님 깃허브)](https://github.com/leehosung/awesome-devteam)
 - [지방대 개발 비전공자가 배달의민족 리드 개발자가 되기까지](https://www.youtube.com/watch?v=V9AGvwPmnZU&t=368s&ab_channel=eo) [이동욱님 인터뷰, 하루키의 법칙]
+- [KOCW 대학강의](http://www.kocw.net/home/index.do)
+- [stackoverflow](https://stackoverflow.com/)
 
 ### 채용 정보 사이트 ###
 - [주니어 개발자를 위한 취업 정보(이동욱님 깃허브)](https://github.com/jojoldu/junior-recruit-scheduler)
