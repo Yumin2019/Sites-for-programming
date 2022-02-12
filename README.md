@@ -46,6 +46,7 @@
 - [지방대 개발 비전공자가 배달의민족 리드 개발자가 되기까지](https://www.youtube.com/watch?v=V9AGvwPmnZU&t=368s&ab_channel=eo) [이동욱님 인터뷰, 하루키의 법칙]
 - [KOCW 대학강의](http://www.kocw.net/home/index.do)
 - [stackoverflow](https://stackoverflow.com/)
+- [SpeedCoder](https://www.speedcoder.net/)
 
 ### 채용 정보 사이트 ###
 - [주니어 개발자를 위한 취업 정보(이동욱님 깃허브)](https://github.com/jojoldu/junior-recruit-scheduler)
