@@ -46,6 +46,7 @@
 - [영어는 반복이다 유튜브 채널](https://www.youtube.com/channel/UCB4zJjFbldBB1A3K7gCJO1A) [Friends 쉐도잉]
 
 ## Etc
+- [누구나 원하는 개발자가 되기](https://blog.shiren.dev/2020-11-23/) [면접 관련]
 - [훌륭한 개발 팀을 만드는 방법(이호성님 깃허브)](https://github.com/leehosung/awesome-devteam)
 - [지방대 개발 비전공자가 배달의민족 리드 개발자가 되기까지](https://www.youtube.com/watch?v=V9AGvwPmnZU&t=368s&ab_channel=eo) [이동욱님 인터뷰, 하루키의 법칙]
 - [KOCW 대학강의](http://www.kocw.net/home/index.do)
